@@ -9,7 +9,7 @@ function Header() {
                     <a href="#about" className="nav-link text">About</a>
                     <a href="#tech" className="nav-link text">Tech Stack</a>
                     <a href="#projects" className="nav-link text">Projects</a>
-                    <a href="#contact" className="nav-link text">Contact</a>
+                    {/* <a href="#contact" className="nav-link text">Contact</a> */}
                 </div>
             </div>
         </section>

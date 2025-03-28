@@ -29,7 +29,7 @@ function Footer() {
                             <p><a href="/#about" className="quick-link">About</a></p>
                             <p><a href="/#tech" className="quick-link">Tech Stack</a></p>
                             <p><a href="/#projects" className="quick-link">Projects</a></p>
-                            <p><a href="/#contact" className="quick-link">Contact</a></p>
+                            {/* <p><a href="/#contact" className="quick-link">Contact</a></p> */}
                         </div>                    
                     </div>
                 </div>
