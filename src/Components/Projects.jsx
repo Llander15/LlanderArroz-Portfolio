@@ -39,7 +39,7 @@ function Projects() {
                         "Codigo", 
                         "Java language typing Web game with a fantasy based design.", 
                         "Backend Developer",
-                        "/#projects"
+                        "https://codigo-v1.onrender.com"
                     )}
                 </div>
             </div>

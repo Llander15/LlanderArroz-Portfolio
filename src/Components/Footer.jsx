@@ -1,5 +1,6 @@
 //images
 import githubLogo from "../assets/github-logo.png"
+import facebookLogo from "../assets/facebook-logo.png"
 function Footer() {
     return (
         <>
@@ -9,12 +10,12 @@ function Footer() {
                     <h2>Llander Arroz</h2>
                     <div className="footer-socials">
                         <div className="social-link">
-                            <a href="" target="_blank">
-                                <img src={githubLogo} alt="facebook" className="footer-social-img" />
+                            <a href="https://www.facebook.com/llander.arroz" target="_blank">
+                                <img src={facebookLogo} alt="facebook" className="footer-social-img" />
                             </a>
                         </div>
                         <div className="social-link">
-                            <a href="" target="_blank">
+                            <a href="https://github.com/Llander15" target="_blank">
                                 <img src={githubLogo} alt="github" className="footer-social-img" />
                             </a>
                         </div>
