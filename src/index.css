@@ -172,7 +172,7 @@
     justify-content: center;
     margin-bottom: 40px;
 }
-.tech-list-by-2{
+.tech-lists-by-2{
     display: flex;
     gap: 100px;
 }
@@ -194,11 +194,11 @@
 }
 /* 1280px below */
 @media screen and (max-width: 1280px) {
-    .tech-list{
+    .tech-lists{
         flex-direction: column;
         margin-bottom: 0;
     }
-    .tech-list-by-2{
+    .tech-lists-by-2{
         margin: auto;
         margin-bottom: 40px;
     }
