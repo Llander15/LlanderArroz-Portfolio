@@ -1,6 +1,6 @@
 //images
 import codigoSample from "../assets/codigo-sample.png"
-import todosSample from "../assets/todos-sample.png"
+import todosSample from "../assets/todos-sample.PNG"
 //card
 function ProjectCard({ image, alt, title, description, role, url }) {
     return(
@@ -43,7 +43,7 @@ function Projects() {
                         "https://codigo-v1.onrender.com"
                     )}
                     {displayCard( 
-                        codigoSample, 
+                        todosSample, 
                         "awesometodos", 
                         "Awesome Todos", 
                         "A simple and intuitive web app for managing your daily tasks.", 
