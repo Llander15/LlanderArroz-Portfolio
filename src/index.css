@@ -192,16 +192,17 @@
 .tech-img{
     height: 100%;
 }
-/* 1130px below */
-@media only screen and (max-width: 1130px) {
+/* 1280px below */
+@media screen and (max-width: 1280px) {
     .tech-list{
         flex-direction: column;
         margin-bottom: 0;
     }
-    .tech-card{
+    .tech-list-by-2{
+        margin: auto;
         margin-bottom: 40px;
     }
-  }
+}
 /* Projects */
 #projects{
     padding: 40px 20px; 
