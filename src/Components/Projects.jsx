@@ -1,6 +1,6 @@
 //images
 import codigoSample from "../assets/codigo-sample.png"
-import todosSample from "../assets/todos-sample.png"
+import todosSample from "..\assets\todos-sample.png"
 //card
 function ProjectCard({ image, alt, title, description, role, url }) {
     return(
