@@ -120,7 +120,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 400px;
 }
 .about-content{
     padding-bottom: 16px;
@@ -150,7 +149,11 @@
 .education{
     width: 100%;
 }
-
+@media screen and (max-width: 1280px) {
+    .about-container{
+        flex-direction: column;
+    }
+}
 
 
 /* ---------- */
