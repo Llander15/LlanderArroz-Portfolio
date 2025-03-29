@@ -107,7 +107,8 @@
     text-indent: 32px !important;
     line-height: 32px;
 }
-@media screen and (max-width: 600) {
+
+@media screen and (max-width: 600px) {
     .hero-content{
         min-width: 0;
         width: 100%;
