@@ -209,9 +209,9 @@
     width: 45% !important;
 }
 .project-img-container{
-    height: 280px;
-    width: 600px;
+    width: 100%;
     display: flex;
+    margin-bottom: 24px;
 }
 .project-img{
     width: 100%;
