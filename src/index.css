@@ -168,12 +168,14 @@
 }
 .tech-lists{
     display: flex;
-    justify-content: space-evenly;
+    gap: 100px;
+    justify-content: center;
     margin-bottom: 40px;
 }
 .tech-list-by-2{
+    width: 100%;
     display: flex;
-    justify-content: space-between;
+    gap: 100px;
 }
 .tech-card{
     width: 200px;
