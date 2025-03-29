@@ -250,11 +250,12 @@
     .tech-lists-by-2{
         flex-direction: column;
         margin: auto;
+        gap: 0;
         margin-bottom: 0;
     }
     .tech-card{
-        margin-bottom: 40px;
         margin: auto;
+        margin-bottom: 40px;
     }
 }
 /* Projects */
