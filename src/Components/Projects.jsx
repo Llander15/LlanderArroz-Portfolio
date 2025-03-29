@@ -1,5 +1,6 @@
 //images
 import codigoSample from "../assets/codigo-sample.png"
+import todosSample from "../assets/todos-sample.png"
 //card
 function ProjectCard({ image, alt, title, description, role, url }) {
     return(
@@ -40,6 +41,14 @@ function Projects() {
                         "Java language typing Web game with a fantasy based design.", 
                         "Backend Developer",
                         "https://codigo-v1.onrender.com"
+                    )}
+                    {displayCard( 
+                        codigoSample, 
+                        "awesometodos", 
+                        "Awesome Todos", 
+                        "A simple and intuitive web app for managing your daily tasks.", 
+                        "Fullstack Developer",
+                        "https://todos-mm46.onrender.com"
                     )}
                 </div>
             </div>
