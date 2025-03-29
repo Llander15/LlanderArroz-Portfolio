@@ -30,17 +30,17 @@ function Tech() {
             <div className="tech-container container"> 
                 <h2 className="tech-title title">Tech Stack</h2>
                 <div className="tech-lists">
-                    <div className="tech-list-by-2">
+                    <div className="tech-lists-by-2">
                         {displayCard( mongodbLogo, "mongodb", "MongoDB")}
                         {displayCard( expressLogo, "express", "Express.js")}
                     </div>
-                    <div className="tech-list-by-2">
+                    <div className="tech-lists-by-2">
                         {displayCard( reactLogo, "react", "React.js")}
                         {displayCard( nodeLogo, "node", "Node.js")}
                     </div>
                 </div>
                 <div className="tech-lists">
-                    <div className="tech-list-by-2">
+                    <div className="tech-lists-by-2">
                         {displayCard( javaLogo, "java", "Java")}
                         {displayCard( figmaLogo, "figam", "Figma")}
                     </div>
