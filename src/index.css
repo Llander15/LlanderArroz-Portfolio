@@ -210,7 +210,7 @@
 }
 .project-img-container{
     height: 280px;
-    height: 600px;
+    width: 600px;
     display: flex;
 }
 .project-img{
