@@ -61,6 +61,7 @@
 .nav-link:hover{
     text-decoration: underline;
 }
+/* 730px and below */
 @media screen and (max-width: 730px) {
     .header-name{
         display: none;
@@ -283,12 +284,13 @@
     color: rgb(144, 227, 255) !important;
     background: #0e0e0e;
 }
+/* 960px and below */
 @media screen and (max-width: 960px) {
     .project-list{
         flex-direction: column;
     }
     .project-card{
-        width: 100%;
+        width: 100% !important;
     }
 }
 /* Contact */
