@@ -197,10 +197,28 @@
     .tech-lists{
         flex-direction: column;
         margin-bottom: 0;
+        gap: 0;
     }
     .tech-lists-by-2{
         margin: auto;
         margin-bottom: 40px;
+    }
+}
+/* 600px below */
+@media screen and (max-width: 1280px) {
+    .tech-lists{
+        flex-direction: column;
+        margin-bottom: 0;
+        gap: 0;
+    }
+    .tech-lists-by-2{
+        flex-direction: column;
+        margin: auto;
+        margin-bottom: 0;
+    }
+    .tech-card{
+        margin-bottom: 40px;
+        margin: auto;
     }
 }
 /* Projects */
