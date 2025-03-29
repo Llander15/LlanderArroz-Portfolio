@@ -209,7 +209,8 @@
     width: 45% !important;
 }
 .project-img-container{
-
+    height: 360px;
+    align-content: center;
 }
 .project-img{
     width: 100%;
