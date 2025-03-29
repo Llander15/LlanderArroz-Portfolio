@@ -63,6 +63,9 @@
 }
 /* 730px and below */
 @media screen and (max-width: 730px) {
+    .header-container{
+        justify-content: end;
+    }
     .header-name{
         display: none;
     }
