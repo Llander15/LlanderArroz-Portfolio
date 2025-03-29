@@ -368,3 +368,11 @@
     color: rgb(144, 227, 255);
     text-decoration: underline;
 }
+@media screen and (max-width: 600px) {
+    .footer-name{
+        font-size: 18px;
+    }
+    .quick-link-title{
+        font-size: 18px;
+    }
+}

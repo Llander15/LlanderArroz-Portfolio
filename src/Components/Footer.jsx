@@ -7,7 +7,7 @@ function Footer() {
         <section id="footer">
             <div className="footer-container container">
                 <div className="footer-left">
-                    <h2>Llander Arroz</h2>
+                    <h2 className="footer-name">Llander Arroz</h2>
                     <div className="footer-socials">
                         <div className="social-link">
                             <a href="https://www.facebook.com/llander.arroz" target="_blank">
