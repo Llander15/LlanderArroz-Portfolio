@@ -74,6 +74,8 @@
     .header-name{
         display: none;
     }
+}
+@media screen and (max-width: 500px) {
     .nav-section{
         gap: 18px;
     }
