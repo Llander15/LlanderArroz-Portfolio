@@ -209,8 +209,9 @@
     width: 45% !important;
 }
 .project-img-container{
-    height: 360px;
-    align-content: center;
+    height: 280px;
+    height: 600px;
+    display: flex;
 }
 .project-img{
     width: 100%;
